@@ -4,4 +4,7 @@ Rencana Web
  * Bisa order
 -Web tutorial
 -Web pribadi
--Web onlshop
+-Web olshop
+ ^seperti toped
+-Buat preload web
+-Buat game dengan js
