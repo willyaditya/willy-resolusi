@@ -4,6 +4,7 @@ Rencana Web
  * Bisa order
 -Web tutorial
 -Web pribadi
+-Buat web dari skripsi tepan
 -Web olshop
  ^seperti toped
 -Buat preload web
