@@ -2,3 +2,4 @@ Willy Resolusi
 -Mempunyai web portofolio
 -Menguasai NodeJS
 -Membuat template css dengan bootstrap
+-Membuat web untuk adik
