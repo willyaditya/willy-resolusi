@@ -5,3 +5,5 @@ Rencana Web
 -Web tutorial
 -Web pribadi
 -Web onlshop
+ ^seperti lazada
+-Buat web dari skripsi tepan
