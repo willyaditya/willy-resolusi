@@ -1,0 +1,6 @@
+Rencana Web
+-Web untuk adik
+ * Menampilkan rancangan
+ * Bisa order
+-Web tutorial
+-Web pribadi

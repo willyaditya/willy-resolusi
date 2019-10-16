@@ -2,4 +2,5 @@ Willy Resolusi
 -Mempunyai web portofolio
 -Menguasai NodeJS
 -Membuat web untuk adik
--Menguasai ReactJS dan Angular
+-Menguasai ReactJS
+-Membuat template dari bootstrap
